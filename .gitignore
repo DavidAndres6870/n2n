@@ -165,6 +165,7 @@ gcp_api/
 power_bi/
 to_ignore/
 update/
+deployment-package/
 
 # Files
 appExample.py
