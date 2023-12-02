@@ -165,11 +165,12 @@ gcp_api/
 power_bi/
 to_ignore/
 update/
-deployment-package/
+package/
+
 
 # Files
 appExample.py
 apiUrls.txt
 readEvenbriteAPI.py
 .env
-
+python.zip
